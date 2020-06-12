@@ -1,0 +1,6 @@
+﻿  memory_monitor.cpp
+C:\Users\11039\Documents\Visual Studio 2019\OSExperiment4\memory_monitor.cpp(165,58): warning C4311: “类型强制转换”: 从“LPCVOID”到“DWORD”的指针截断
+C:\Users\11039\Documents\Visual Studio 2019\OSExperiment4\memory_monitor.cpp(165,58): warning C4302: “类型强制转换”: 从“LPCVOID”到“DWORD”截断
+C:\Users\11039\Documents\Visual Studio 2019\OSExperiment4\memory_monitor.cpp(165,71): warning C4311: “类型强制转换”: 从“LPCVOID”到“DWORD”的指针截断
+C:\Users\11039\Documents\Visual Studio 2019\OSExperiment4\memory_monitor.cpp(165,71): warning C4302: “类型强制转换”: 从“LPCVOID”到“DWORD”截断
+  OSExperiment4.vcxproj -> C:\Users\11039\Documents\Visual Studio 2019\OSExperiment4\x64\Debug\OSExperiment4.exe
